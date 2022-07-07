@@ -15,7 +15,11 @@
   <img align="center" alt="caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="caio-Photoshop" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/800px-Adobe_Photoshop_CC_icon.svg.png?20200616073617"><br>
+  <img align="center" alt="caio-Python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png?20190122211436">
+
   <img align="right" alt="caio-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/750x/8b/49/60/8b4960faf2ac3dac22b61ad4aab8a9e3.jpg">
+  
 </div>
   
   ##
