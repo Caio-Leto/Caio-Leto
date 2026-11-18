@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=155&section=header&text=Caio%20Vin%C3%ADcius&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20React%20%26%20Next.js%20%7C%20Infra%20%26%20Linux&descAlignY=58&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=155&section=header&text=Caio%20Vin%C3%ADcius&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20React%20%2B%20Next.js%20%7C%20Infra%20%2B%20Linux&descAlignY=58&descSize=16" alt="Banner Caio Vinícius" />
 </div>
 
 <div align="center">
@@ -11,28 +11,28 @@
 <br/>
 
 <table align="center">
-  <tr>
-    <td align="center" width="180">
-      <img src="https://i.pinimg.com/750x/8b/49/60/8b4960faf2ac3dac22b61ad4aab8a9e3.jpg" width="150" alt="Caio Vinícius" />
-    </td>
-    <td width="540">
+<tr>
+<td align="center" width="180">
+  <img src="https://i.pinimg.com/750x/8b/49/60/8b4960faf2ac3dac22b61ad4aab8a9e3.jpg" width="150" alt="Caio Vinícius" />
+</td>
+<td width="540">
 
 ```bash
-\$ whoami
-> Caio Vinícius (Caio Leto) | ele/dele | Picos, PI - Brasil
+❯ whoami
+Caio Vinícius (Caio Leto) | ele/dele | Picos, PI - Brasil
 
-\$ stack --current
-> 💻 React • Next.js • TypeScript • Tailwind CSS • Python
+❯ stack --current
+💻 React • Next.js • TypeScript • Tailwind CSS • Python
 
-\$ background --infra
-> 🖥️ Analista de Servidores (BRNX Networks) & Redes (VirteX Telecom)
+❯ background --infra
+🖥️ Analista de Servidores (BRNX Networks) & Redes (VirteX Telecom)
 
-\$ education
-> 🎓 Análise e Desenvolvimento de Sistemas — IFPI
+❯ education
+🎓 Análise e Desenvolvimento de Sistemas — IFPI
 ```
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -68,7 +68,7 @@
 
 <div align="center">
   <a href="https://github.com/Caio-Leto">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Caio-Leto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Caio-Leto&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Leto&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
   </a>
 </div>
