@@ -79,7 +79,7 @@ Caio Vinícius (Caio Leto) | ele/dele | Picos, PI - Brasil
 
 <div align="center">
   <a href="https://www.linkedin.com/in/caio-vin%C3%ADcius-081392190/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/ackerman_winchester/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
@@ -95,5 +95,5 @@ Caio Vinícius (Caio Leto) | ele/dele | Picos, PI - Brasil
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Caio-Leto/Caio-Leto/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=13&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=680&height=55&lines=%F0%9F%95%B9%EF%B8%8F+PLAYER+1%3A+CAIO+LETO+%5BLVL+99+DEV%5D;%E2%9A%94%EF%B8%8F+QUEST%3A+REACT+%2B+NEXT.JS+%2B+LINUX;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+FULL-STACK+HERO;%F0%9F%92%BE+PRESS+START+TO+COLLABORATE..." alt="16-bit Arcade HUD" />
 </div>
